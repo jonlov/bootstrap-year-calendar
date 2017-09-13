@@ -8,7 +8,7 @@
  
 ;(function($){
 	$.fn.calendar.dates['it'] = {
-		days: ["Domenica", "Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato"],
+		days: ["Domenica", "LunedÃ¬", "MartedÃ¬", "MercoledÃ¬", "GiovedÃ¬", "VenerdÃ¬", "Sabato"],
 		daysShort: ["Dom", "Lun", "Mar", "Mer", "Gio", "Ven", "Sab"],
 		daysMin: ["Do", "Lu", "Ma", "Me", "Gi", "Ve", "Sa"],
 		months: ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"],

@@ -4,7 +4,7 @@
  * Based on 
  * German translation for bootstrap-datepicker
  * Sam Zurcher <sam@orelias.ch>
- */ 
+ */
  
 ;(function($){
 	$.fn.calendar.dates['de'] = {
